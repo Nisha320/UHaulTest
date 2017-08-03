@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UHaulTest</string>
+    <string name="no_users"> No Users to view!</string>
+    <string name="no_posts"> No Posts to view!</string>
+    <string name="loading_cd">Content is loading</string>
+    <string name="create_post">Create New Post</string>
+</resources>
